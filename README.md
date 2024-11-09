@@ -1,26 +1,22 @@
 # <i> PopcornPicks🍿: Your Destination for Movie Recommendations </i>
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/brwali/PopcornPicks/graphs/commit-activity) [![Contributors Activity](https://img.shields.io/github/commit-activity/m/brwali/PopcornPicks)](https://github.com/brwali/PopcornPicks/pulse) [![GitHub issues](https://img.shields.io/github/issues/brwali/PopcornPicks.svg)](https://github.com/brwali/PopcornPicks/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/brwali/PopcornPicks.svg)](https://github.com/brwali/PopcornPicks/issues?q=is%3Aissue+is%3Aclosed) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/brwali/PopcornPicks) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT) [![Unittest](https://github.com/brwali/PopcornPicks/actions/workflows/unittest.yml/badge.svg?branch=master&event=push)](https://github.com/brwali/PopcornPicks/actions/workflows/unittest.yml) [![codecov](https://codecov.io/gh/brwali/PopcornPicks/graph/badge.svg?token=0XN6K2DMGS)](https://codecov.io/gh/brwali/PopcornPicks) [![GitHub release](https://img.shields.io/github/release/brwali/PopcornPicks.svg)](https://GitHub.com/brwali/PopcornPicksreleases/) [![StyleCheck: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint) [![HitCount](https://hits.dwyl.com/brwali/PopcornPicks.svg)](https://hits.dwyl.com/brwali/PopcornPicks) ![GitHub contributors](https://img.shields.io/github/contributors/brwali/PopcornPicks) ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/brwali/PopcornPicks) ![GitHub repo size](https://img.shields.io/github/repo-size/brwali/PopcornPicks) [![Black](https://github.com/brwali/PopcornPicks/actions/workflows/black.yml/badge.svg)](https://github.com/brwali/PopcornPicks/actions/workflows/black.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/260d558f17ae5e1027e5/maintainability)](https://codeclimate.com/github/brwali/PopcornPicks/maintainability) [![GitHub closed issues by-label](https://img.shields.io/github/issues-closed-raw/brwali/PopcornPicks/bug?color=green&label=Squished%20bugs)](https://github.com/brwali/PopcornPicks/issues?q=is%3Aissue+label%3Abug+is%3Aclosed) ![Discord](https://img.shields.io/discord/1143966088695124110) [![DOI](https://zenodo.org/badge/713118657.svg)](https://zenodo.org/doi/10.5281/zenodo.10210915)
-  
 
-  
-<img src="https://github.com/brwali/PopcornPicks/blob/master/asset/header_display.png" alt="drawing" style="width:1000px;"/>
-<b>PopcornPicks is more than just a movie recommender system; it's a gateway to a world of cinematic adventures. With an ever-expanding library of films and a powerful recommendation algorithm, PopcornPicks is here to transform the way you discover, enjoy, and connect with movies.</b>
+# [Check our Wiki Page for detailed information about the project, system architecture, installation steps, guides and a lot more!](https://github.com/tanmaypardeshi/CSC-510-Project3-PopcornPicks/wiki)
 
-# Contents  
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/tanmaypardeshi/PopcornPicks/graphs/commit-activity) [![Contributors Activity](https://img.shields.io/github/commit-activity/m/tanmaypardeshi/PopcornPicks)](https://github.com/tanmaypardeshi/PopcornPicks/pulse) [![GitHub issues](https://img.shields.io/github/issues/tanmaypardeshi/PopcornPicks.svg)](https://github.com/tanmaypardeshi/PopcornPicks/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/tanmaypardeshi/PopcornPicks.svg)](https://github.com/tanmaypardeshi/PopcornPicks/issues?q=is%3Aissue+is%3Aclosed) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/tanmaypardeshi/PopcornPicks) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10211655.svg)](https://doi.org/10.5281/zenodo.10211655) [![Unittest](https://github.com/tanmaypardeshi/PopcornPicks/actions/workflows/unittest.yml/badge.svg?branch=master&event=push)](https://github.com/tanmaypardeshi/PopcornPicks/actions/workflows/unittest.yml) [![codecov](https://codecov.io/gh/tanmaypardeshi/CSC-510-Project3-PopcornPicks/graph/badge.svg?token=SZWTDA4REW)](https://codecov.io/gh/tanmaypardeshi/CSC-510-Project3-PopcornPicks)[![GitHub release](https://img.shields.io/github/release/tanmaypardeshi/PopcornPicks.svg)](https://GitHub.com/tanmaypardeshi/PopcornPicks/releases/) [![StyleCheck: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint) [![HitCount](https://hits.dwyl.com/tanmaypardeshi/PopcornPicks.svg)](https://hits.dwyl.com/tanmaypardeshi/PopcornPicks) ![GitHub contributors](https://img.shields.io/github/contributors/tanmaypardeshi/PopcornPicks) ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/tanmaypardeshi/PopcornPicks) ![GitHub repo size](https://img.shields.io/github/repo-size/tanmaypardeshi/PopcornPicks)
+
+![Home page](./asset/home-page.png)
+<b>PopcornPicks is more than just a movie recommender system; it's a gateway to a world of cinematic adventures. With an ever-expanding library of films, a powerful recommendation algorithm, an all-new chat room, a new state-of-the-art account system, a newly added robust review system, and more, PopcornPicks is here to transform the way you discover, enjoy, and connect with movies.</b>
+
+# Contents
 
 - [Why use PopcornPicks?](#why-use-popcornpicks)
 - [Project Documentation](#documentation)
-- [Project Presentation Videos](#project-presentation-video)
+- [Project Presentation Video](#project-presentation-video)
 - [Brief Overview of Project](#project-description)
-- [What Docs](#what-docs)
-- [How Docs](#how-docs)<br/>
-    - [Recommendation Mechanism](#movie-recommendation-mechanism)<br/>
-    - [Email Notifier](#email-notifier)
-    - [Create an Acccount](#create-an-account)
-    - [Login to Account](#login-to-account)
-    - [Profile and Friends](#profile-and-friends)
-    - [Wall](#wall)
-- [Improvements Made in the Project](#project-3-delta)
+- [Core Applications of the Project](#core-applications-of-the-project)<br/>
+  - [Recommendation Mechanism](#movie-recommendation-mechanism)<br/>
+  - [Email Notifier](#email-notifier)
+- [Improvements Made in the Project](#project-2-delta)
 - [TechStack Used for the Development of Project](#tech-stack-used)
 - [Steps for Execution](#getting-started)
 - [Future Scope](#future-scope)
@@ -32,83 +28,70 @@
 ## Why use PopcornPicks?
 
 <img
-  src="https://media.giphy.com/media/l1J9GIXk9w7OYsd5S/giphy.gif"
-  alt="Starship with iTerm2 and the Snazzy theme"
+  src="https://media.giphy.com/media/nOwG55u1jGOiTAqKqU/giphy.gif"
   width="40%"
   align="right"
 />
 
-PopcornPicks: Your movie recommender! Input movies, get tailored suggestions, and share via email. Elevate your movie choices effortlessly!
+**PopcornPicks: Your personalized movie guide!**
 
 - **Efficient:** Lightning-fast recommendations for movie buffs! 🚀
 - **Adaptable:** Tailor the recommendations to your taste.
 - **Accessible:** Works across all platforms and shells.
 - **Insightful:** Get movie insights at a glance.
-- **Comprehensive:** Supports a wide array of user-preferred movies.
-- **Simple:** Easy installation and setup – start discovering great movies in no time!"
+- **Comprehensive:** Includes the ability to review and chat about your favorite movies.
+- **Simple:** Easy installation and setup – start discovering great movies in no time!
+- **Robust:** Build your own account where you can store all the movies you've seen.
+ 
 
 ## Documentation
-Checkout for project documentation [here](https://github.com/brwali/PopcornPicks/tree/master/docs)
 
-## Project Presentation Videos
-### New Features 2 minute demo
-[![why contribute video](https://img.youtube.com/vi/QHju8EzQUQ4/0.jpg)](https://www.youtube.com/watch?v=QHju8EzQUQ4)
+Checkout for project documentation at our [wiki page](https://github.com/tanmaypardeshi/PopcornPicks/wiki)
 
-### Why contribute?
-[![why contribute video](https://img.youtube.com/vi/aQ1cryH4B7A/0.jpg)](https://www.youtube.com/watch?v=aQ1cryH4B7A)
+## Project Presentation Video
 
+You can see the project presentation at - https://youtu.be/ymAo_zXfZ0c
 
 ## Project Description
-PopcornPicks is a user-friendly movie recommender that curates a tailored list of 10 movie predictions based on user-provided movie preferences. Users can input their favorite movies, and our algorithm refines recommendations based on feedback—Liked, Disliked, or Yet To Watch. Additionally, PopcornPicks offers the convenience of emailing the recommended movies, enhancing the movie-watching experience. For the system architecture and other details, please refer to our documentation [here](https://github.com/brwali/PopcornPicks/tree/master/docs)
 
-## What docs
-View our documentation outlining each class and function of PopcornPicks here
-- [Backend](https://github.com/brwali/PopcornPicks/blob/master/docs/backend.md)
-- [Frontend](https://github.com/brwali/PopcornPicks/blob/master/docs/frontend.md)
-- [Testing](https://github.com/brwali/PopcornPicks/blob/master/docs/testing.md)
+PopcornPicks is a user-friendly movie recommender that curates a tailored list of 10 movie predictions based on user-provided movie preferences. Users can input their favorite movies, and our algorithm refines recommendations based on feedback—Liked, Disliked, or Yet To Watch. Additionally, users can write reviews, save them, check out the latest movies out there and also check out the buzz going on about movies by viewing what others are writing for their reviews. For the system architecture and other details, please refer to our [wiki page](https://github.com/tanmaypardeshi/PopcornPicks/wiki)
 
-View our autogenerated doco here [Doco](https://github.com/brwali/PopcornPicks/blob/master/docs/generated_docs/)
+## Core Applications of the Project
 
-## How docs
+### Engaging and Interactive UI
+![UI](./asset/engage.gif)
 
-### Movie Recommendation Mechanism 
-#### (Modified in project 3)
-**The user selects upto 5 movies to get a tailored watchlist and provide feedback for the same**
-  
-<img src="https://github.com/brwali/PopcornPicks/blob/master/asset/recommend_mechanism.gif" width="600" height="375">
+### User Authentication
 
-### Email Notifier
-**The user sends his/her movies feedback via an email (Notify Me button)**
-  
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/brwali/PopcornPicks/blob/master/asset/email_notifier.gif" alt="Email Notifier" width="600" height="375">
-    <img src="https://github.com/brwali/PopcornPicks/blob/master/asset/email.png" alt="Email" width="400" height="400">
-</div>
+#### Sign up: Users can register to PopcornPicks to get the best recommendations for their favourite movies and genres
+![Sign Up](./asset/signup.gif)
 
-### Create an Account
-#### (NEW in project 3)
-**Users can now create accounts, persisting data including their movie reviews and recommendations**
-<img src="https://github.com/brwali/PopcornPicks/blob/master/asset/create_account.gif" width="600" height="375">
+#### Login: 
+![Login](./asset/login.gif)
 
-### Login to account
-#### (NEW in project 3)
-**The user can log in to their account securly with encrypted passwords stored in our database**
-<img src="https://github.com/brwali/PopcornPicks/blob/master/asset/login.gif" width="600" height="375">
+### Personalised Profile Page for Users
+![Profile](./asset/profile.gif)
 
-### Profile and Friends
-#### (NEW in project 3)
-**The user can add friends, view the movies reviewed by the friends, and see their reviewed movies in their profile**
-<img src="https://github.com/brwali/PopcornPicks/blob/master/asset/profile.gif" width="600" height="375">
+### Check Out New and Upcoming Movies
+![New Movies](./asset/new_movies.gif)
 
-### Wall
-#### (NEW in project 3)
-**The user can interact with other users, by viewing a community sourced wall of recent moview reviews**
-<img src="https://github.com/brwali/PopcornPicks/blob/master/asset/wall.gif" width="600" height="375">
+### Movie Recommendation Mechanism
+![Recommend](./asset/predicted_movie_poster.gif)
 
-## Project 3 Delta
-Check out the significant changes that we made for Project 3 [here](https://github.com/brwali/PopcornPicks/blob/master/proj3/Proj3Changes.md)
+### Write Movie Reviews
+![Review](./asset/review.gif)
 
-Our grading scorecard can be found [here](https://github.com/brwali/PopcornPicks/blob/master/proj3/README.md)
+### See What Others Have Seen 
+![Movies](./asset/movies-list.gif)
+
+### Chat Room
+![Chat](./asset/ChatRoom.gif)
+
+## Project 3 - New Version
+
+Check out the significant changes that we made for Project 3:
+* Backend: [Click Here](https://github.com/tanmaypardeshi/CSC-510-Project3-PopcornPicks/wiki/Backend)
+* Frontend: [Click Here](https://github.com/tanmaypardeshi/CSC-510-Project3-PopcornPicks/wiki/Frontend)
 
 ## Tech stack Used👨‍💻:
 
@@ -117,13 +100,7 @@ Our grading scorecard can be found [here](https://github.com/brwali/PopcornPicks
 <code><a href="https://www.jquery.com//" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<!--<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
- <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code> -->
-<!-- <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>-->
-<!-- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>-->
-<code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 
 
 <p>
@@ -136,60 +113,56 @@ Our grading scorecard can be found [here](https://github.com/brwali/PopcornPicks
 
 ## Getting Started
 
- Step 1: 
-  Git Clone the Repository 
-  
-    git clone https://github.com/brwali/PopcornPicks.git
-    
-  (OR) Download the .zip file on your local machine from the following link
-  
-    https://github.com/brwali/PopcornPicks
-  
- Step 2:
-   Follow the setup instructions in the installation documentation
-   
-    https://github.com/brwali/PopcornPicks/blob/master/docs/install.md
-    
-    
+Step 1:
+Git Clone the Repository
+
+    git clone https://github.com/tanmaypardeshi/PopcornPicks.git
+
+(OR) Download the .zip file on your local machine from the following link
+
+    https://github.com/tanmaypardeshi/PopcornPicks
+
+Step 2:
+Follow the setup instructions in the wiki documentation
+
+    https://github.com/tanmaypardeshi/PopcornPicks/wiki/Installation-and-setup
+
 <b>Finally, start enjoying personalized movie recommendations!</b>
 
 ## Future Scope
+
 PopcornPicks is a dynamic project with endless possibilities for expansion and enhancement. Here are some exciting avenues for future development:
 
-
-1. **User Profiles and Preferences**: Continue to improve user profiles. More features could be added with friend interaction, such as ability to send messages. More data on the users could be persisted such as preferences and watch history for a more personalized movie discovery experience.
+1. **Enahncements on the User Profile**: Implement more advanced features to the user profile. For example, include edit
+or delete review option. Make validations for the duplicate reviews. These are a few examples of what can be enhanced in 
+the future
 
 2. **Integration with Streaming Services**: Integrate with popular streaming services to provide real-time availability information and seamless access to recommended movies.
-  
-3. **Improved Recommendation Algorithm**: Enhance the recommendation engine with more advanced machine learning models and collaborative filtering techniques to provide even more accurate and personalized movie suggestions.
- 
-4. **Frontend rework**: Currently the frontend uses jquery, which is a bit dated. As the program becomes more complex, it may be nice to use a component based architecture such as React, Angular, or Blazor.
 
-The future of PopcornPicks is full of potential, and we invite developers, movie lovers, and anyone passionate about cinema to join us in making this platform the ultimate movie companion. 
+3. **Dynamic Chat Rooms**: The current design of the application supports only a single chat room which is global to the website. The chat rooms can be made dynamic to a movie.
+
+4. **Improved Recommendation Algorithm**: Enhance the recommendation engine with more advanced machine learning models and collaborative filtering techniques to provide even more accurate and personalized movie suggestions.
+
+5. **Interactive Review System**: In this feature, users should be able to comment on other people's reviews so that the site can be more interactive and engaging for everyone
+
+6. **Page for TV Shows**: Add a seperate section for TV shows. This can include shows from all streaming websites and television. This can be a parallel to the movies section of the website.
+
+7. **Email Notifier**: Allow the user to send their favourite movie recommendations via email.
+
+8. **Wishlist Feature**: Implement a feature where users can wishlist the recommendations they like and make lists of movies based on their preferences.
+
+The future of PopcornPicks is full of potential, and we invite developers, movie lovers, and anyone passionate about cinema to join us in making this platform the ultimate movie companion.
 
 ## Contribute to the Project!
 
-Please refer to the [CONTRIBUTING.md](https://github.com/brwali/PopcornPicks/blob/master/CONTRIBUTING.md) if you want to contribute to the PopcornPicks source code. Follow all the guidelines mentioned in the same and raise a pull request, we would love to look at it ❤️❤️!
+Please refer to the [CONTRIBUTING.md](https://github.com/tanmaypardeshi/PopcornPicks/blob/master/CONTRIBUTING.md) if you want to contribute to the PopcornPicks source code. Follow all the guidelines mentioned in the same and raise a pull request, we would love to look at it ❤️❤️!
 
 ## Contributors
-<table>
-  <tr>
-    <td><a href="https://github.com/brwali/PopcornPicks">Project 3</a></td>
-    <td align="center"><a href="https://github.com/brwali/"><img src="https://avatars.githubusercontent.com/u/144480335?v=4" width="75px;" alt=""/><br /><sub><b>Brandon Walia</b></sub></a></td>
-    <td align="center"><a href="https://github.com/nathankohen/"><img src="https://avatars.githubusercontent.com/u/99231385?v=4" width="75px;" alt=""/><br /><sub><b>Nathan Kohen</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/nfoster1492/"><img src="https://avatars.githubusercontent.com/u/144182217?v=4" width="75px;" alt=""/><br /><sub><b>Nicholas Foster</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/rpkenney/"><img src="https://avatars.githubusercontent.com/u/70106196?v=4" width="75px;" alt=""/><br /><sub><b>Robert Kenney</b></sub></a><br /></td>
-  </tr>
-</table>
 
-[Aditya Pai Brahmavar](https://www.linkedin.com/in/adityapai16/)<br/>
-[Ananya Mantravadi](https://www.linkedin.com/in/ananya-mantravadi/)<br/>
-[Rishi Singhal](https://www.linkedin.com/in/rishi-singhal1101/)<br/>
-[Samarth Shetty](https://www.linkedin.com/in/samarthshetty09/)<br/>
-
-## Contact
-In case of any issues, please e-mail your queries to popcornpicks777@gmail.com or raise an issue on this repository.<br>
-Our team of developers monitors this e-mail address and would be happy to answer any and all questions you have about setup or use of this project!
+[Tanmay Pardeshi](https://github.com/tanmaypardeshi)<br>
+[Chandana Ray](https://github.com/cray94)<br>
+[Abhinav Sinha](https://github.com/abhinav110595)<br>
+[Sam Kwiatkowski-Martin](https://github.com/ExtremeMachine12)<br>
 
 ## Join the PopcornPicks Community:
 
@@ -199,5 +172,10 @@ Together, let's make PopcornPicks the ultimate movie companion!
 PopcornPicks is more than just code; it's a passion for cinema, and we invite you to be a part of this exciting journey. Start exploring, sharing, and discovering movies like never before with PopcornPicks!
 Let's make movie nights extraordinary together!
 
+## Contact Us
+
+If you have any concerns or questions related to PopcornPicks, you can reach out to us at popcornpickv2@gmail.com
+
 ## License
+
 This project is under the MIT License.
